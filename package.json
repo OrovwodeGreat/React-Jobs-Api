@@ -6,6 +6,7 @@
     "start": "json-server --watch db.json --port 5000"
   },
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.3",
+    "react-scripts": "^5.0.1"
   }
 }
