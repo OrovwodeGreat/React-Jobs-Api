@@ -4,7 +4,7 @@
   "scripts": {
     "build": "react-scripts build",
     "start": "react-scripts start",
-    "server": "json-server --watch src/jobs.json --port 8000"
+    "server": "json-server --watch src/db.json --port 5000"
   },
   "dependencies": {
     "json-server": "^0.17.3",
